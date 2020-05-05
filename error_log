@@ -1,0 +1,1 @@
+[19-Jan-2014 20:32:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/esca2791/public_html/projects/bookshop/contact.php:16) in /home1/esca2791/public_html/projects/bookshop/templates/nav.php on line 6
